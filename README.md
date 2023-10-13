@@ -1,32 +1,16 @@
-# Welcome!
+# Bem-vindo!
 
- 
+## Eu sou o Caio Victor, tenho 19 anos e sou Desenvolvedor Front End!
 
-## I'm Caio Victor!
-
- 
-
-:computer: I'm Front-End Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:outbox_tray: 2023 Goals: Find a new job.
-
- 
-
-## About me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CaioVictor3)](https://github.com/CaioVictor3)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-arantes/)](https://www.linkedin.com/in/caio-arantes/)
-
-## Languages and Tools:
+<div align="center">
+  <a href="https://www.linkedin.com/in/caio-arantes"><img src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
+  <a href="https://www.instagram.com/caio.victor_"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="Instagram" width="40" height="40"></a>
+  <a href="caiovictorarantes@gmail.com"><img src="https://img.icons8.com/fluency/96/000000/gmail.png" alt="Gmail" width="40" height="40"></a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=CaioVictor3&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVictor3&layout=compact&theme=dark" alt="Linguagens Utilizadas" width="44%">
 </div>
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
+- Obrigado por visitar
