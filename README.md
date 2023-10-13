@@ -20,6 +20,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-arantes/)](https://www.linkedin.com/in/caio-arantes/)
 
+## Languages and Tools:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=CaioVictor3&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVictor3&layout=compact&theme=dark" alt="Linguagens Utilizadas" width="44%">
+</div>
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
