@@ -13,10 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVictor3&layout=compact&theme=dark" alt="Linguagens Utilizadas" width="44%">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioVictor3/CaioVictor3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioVictor3/CaioVictor3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CaioVictor3/CaioVictor3/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/CaioVictor3/CaioVictor3/output/snake.svg" alt="Snake animation" />
 - Obrigado por visitar
