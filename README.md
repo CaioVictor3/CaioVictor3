@@ -1,6 +1,8 @@
 # Bem-vindo!
 
-## Eu sou o Caio Victor, tenho 21 anos e sou Desenvolvedor Front End!
+## Olá! Sou um Desenvolvedor Web, com foco no desenvolvimento front-end utilizando JavaScript, React, HTML e CSS. ## Cursando Engenharia de Software, busco aplicar meus conhecimentos na criação de aplicações web eficientes e escaláveis.
+
+## Tenho experiência em interfaces responsivas e interativas, familiaridade com Git/GitHub e metodologias ágeis. Possuo ## habilidade em troubleshooting e análise de logs para resolver problemas. Sou proativo, comunicativo e estou sempre ## pronto para colaborar em equipe.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaioVictor3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
