@@ -48,7 +48,7 @@
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
-    <img height="192px" alt="CaioVictor3's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-dev&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+    <img height="192px" alt="CaioVictor3's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVictor3&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=CaioVictor3&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
 
