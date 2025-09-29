@@ -29,29 +29,17 @@
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="img/tech/html.svg" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="img/tech/css.svg" /></a>
     <a href="#" target="_blank"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
     <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="42px" src="img/tech/tailwindcss-2.svg" /></a>
-    <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="38px" src="img/tech/vue.js.svg" /></a>
     <a href="#" target="_blank"> <img alt="vitejs" height="42px" src="img/tech/vitejs-original.svg" /></a>
     <a href="https://angular.io/" target="_blank"> <img alt="Angular" height="42px" src="https://techstack-generator.vercel.app/angular-icon.svg" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
+    <a href="https://react.dev/" target="_blank"> <img alt="React" height="42px" src="https://techstack-generator.vercel.app/react-icon.svg" /></a>
     <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="42px" src="img/tech/figma.svg" /></a>
-    <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="img/tech/python.svg" /></a>
-    <a href="#" target="_blank"> <img alt="php" height ="42px"  src="img/tech/php-original.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px"  src="img/tech/laravel-original.svg" /></a>
-    <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px"  src="img/tech/wordpress-roxo.svg" /></a>
     <a href="https://www.mysql.com/" target="_blank"> <img alt="mysql" height ="42px"  src="https://techstack-generator.vercel.app/mysql-icon.svg" /></a>
-    <a href="https://firebase.google.com/" target="_blank"> <img alt="Firebase" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
-    <a href="https://www.sql.org/" target="_blank"> <img alt="SQL" height="42px" src="https://techstack-generator.vercel.app/sql-icon.svg" /></a>
-    <a href="https://n8n.io/" target="_blank"> <img alt="n8n" height ="42px"  src="img/tech/n8n-original.svg" /></a>
-    <a href="https://github.com/davidabx7" target="_blank"> <img alt="Github" height ="50px"  src="img/tech/github.svg" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img alt="PostgreSQL" height="42px" src="https://techstack-generator.vercel.app/postgresql-icon.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px"  src="img/tech/git-original-1.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/githubactions-original.svg" /></a>
-    <a href="https://github.com/features/codespaces/" target="_blank"> <img alt="githubcodespaces" height ="42px"  src="img/tech/githubcodespaces.svg" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" height ="42px"  src="img/tech/vscode.svg" /></a>
-    <a href="https://cursor.com/" target="_blank"> <img alt="cursor" height ="42px"  src="img/tech/cursor-original.svg" /></a>
-    <a href="https://pt.wikipedia.org/wiki/Linux/" target="_blank"> <img alt="linux" height ="42px"  src="img/tech/linux-original.svg" /></a>
-    <a href="https://excel.cloud.microsoft/" target="_blank"> <img alt="excel" height ="42px"  src="img/tech/excel-original.svg" /></a>
-    <a href="https://word.cloud.microsoft/" target="_blank"> <img alt="word" height ="42px"  src="img/tech/word-original.svg" /></a>
+    <a href="https://github.com/" target="_blank"> <img alt="Github" height ="50px"  src="img/tech/github.svg" /></a>
+    <a href="https://firebase.google.com/" target="_blank"> <img alt="Firebase" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
 </details>
 
 <br>
