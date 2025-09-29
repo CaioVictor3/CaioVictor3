@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&pause=1000&color=00F7CE&center=true&vCenter=true&width=600&height=100&size=35&lines=Hello+Word!;Meu+nome+%C3%A9+DavidABx;Bem-vindo+ao+meu+perfil+!;Desenvolvedor+Front-End;Designer+UI%2FUX" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&pause=1000&color=00F7CE&center=true&vCenter=true&width=600&height=100&size=35&lines=Hello+Word!;Meu+nome+%C3%A9+CaioVictor3;Bem-vindo+ao+meu+perfil+!;Desenvolvedor+Front-End;Designer+UI%2FUX" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -47,21 +47,21 @@
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
-    <img height="192px" alt="davidabx-dev's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-dev&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=davidabx-dev&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+    <img height="192px" alt="CaioVictor3-dev's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-dev&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=CaioVictor3-dev&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
 
   <div align="center">
-  <a href="https://github.com/davidabx-dev/davidabx-dev"><img alt="davidabx-dev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx-dev&bg_color=RRGGBBAA&title_color=00FFC3&color=00FFC3&line=00FFC3&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
+  <a href="https://github.com/CaioVictor3-dev/CaioVictor3-dev"><img alt="CaioVictor3-dev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=CaioVictor3-dev&bg_color=RRGGBBAA&title_color=00FFC3&color=00FFC3&line=00FFC3&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
   </div>
 
       
  <br>
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidabx-dev/davidabx-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidabx-dev/davidabx-dev/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/davidabx-dev/davidabx-dev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioVictor3-dev/CaioVictor3-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioVictor3-dev/CaioVictor3-dev/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/CaioVictor3-dev/CaioVictor3-dev/output/pacman-contribution-graph.svg">
 </picture>
 </details>
 
