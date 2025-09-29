@@ -10,7 +10,7 @@
 <details open>
     <summary  align="center"><h2> <img src="https://camo.githubusercontent.com/e6733dc875a6a93407349aeb14b502a16750420d342e92c7d3f1f287fa4a828e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966" width="35.98px"> Sobre mim </h2></summary>
     <p align="center"> Desenvolvedor Front-End e entusiasta de TI do Brasil, apaixonado por criar experiências digitais únicas. </p>
-    <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/f70db02b-887c-4c64-a827-5d8a9809ef03" width="35%" height="45%" style="border: 2px solid transparent; border-radius: 20px;"/>
+    <img align="right" alt="GIF" src="./img/gif/Web.Dev.gif" width="35%" height="45%" style="border: 2px solid transparent; border-radius: 20px;"/>
     <h3> <img alt="GIF" src="https://github.com/user-attachments/assets/f9591a1c-d1b5-4de9-b69f-6f01f7e07fdf" width="25px" />  Um pouco mais de detalhe: </h3>
     <ul>
         <li><a><img alt="GIF" src="https://github.com/user-attachments/assets/8bacf7d5-26da-4caa-8803-303b4165e80b" width="30px"/>&nbsp; Tecnologia e Desenvolvimento de Softwares </a></li><br>
@@ -69,7 +69,7 @@
 <br>
 
 <details open>
-<summary align="center"><h2> <img alt="GIF" src="./img/gif/Web.Dev.gif" width="40px"> Calendário de Contribuições 3D </h2></summary>
+<summary align="center"><h2> <img alt="GIF" src="https://github.com/user-attachments/assets/c8542f15-059a-402d-ba79-14ac0d039ea3" width="40px"> Calendário de Contribuições 3D </h2></summary>
 <p align='center'>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
