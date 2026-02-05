@@ -54,15 +54,6 @@
  <br>
 </details>
 
-<br>
-
-<details open>
-<summary align="center"><h2> <img alt="GIF" src="https://github.com/user-attachments/assets/c8542f15-059a-402d-ba79-14ac0d039ea3" width="40px"> Calendário de Contribuições 3D </h2></summary>
-<p align='center'>
-<img src="./profile-3d-contrib/profile-night-rainbow.svg">
-</p>
-</details>
-
 <div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=86&color=gradient&descAlign=61&fontAlign=50&fontAlignY=50&section=footer&reversal"/>
 </div>
