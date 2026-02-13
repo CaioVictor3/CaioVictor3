@@ -33,11 +33,8 @@
     <a href="#" target="_blank"> <img alt="vitejs" height="42px" src="img/tech/vitejs-original.svg" /></a>
     <a href="https://angular.io/" target="_blank"> <img alt="Angular" height="42px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
-    <a href="https://www.php.net/" target="_blank"> <img alt="PHP" height="42px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" /></a>
     <a href="https://react.dev/" target="_blank"> <img alt="React" height="42px" src="https://techstack-generator.vercel.app/react-icon.svg" /></a>
-    <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="42px" src="img/tech/figma.svg" /></a>
     <a href="https://www.mysql.com/" target="_blank"> <img alt="mysql" height ="42px"  src="https://techstack-generator.vercel.app/mysql-icon.svg" /></a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img alt="PostgreSQL" height="42px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px"  src="img/tech/git-original-1.svg" /></a>
     <a href="https://github.com/" target="_blank"> <img alt="Github" height ="50px"  src="img/tech/github.svg" /></a>
     <a href="https://firebase.google.com/" target="_blank"> <img alt="Firebase" height="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
